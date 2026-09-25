@@ -1,0 +1,1016 @@
+{
+ "version": 1,
+ "generated": "2026-09-11",
+ "count": 66,
+ "bytes": 4449224,
+ "fonts": {
+  "vazirmatn": {
+   "name": "Vazirmatn",
+   "script": "fa",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/vazirmatn/vazirmatn-arabic-400-normal.woff2",
+     "latin": "fa/vazirmatn/vazirmatn-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/vazirmatn/vazirmatn-arabic-700-normal.woff2",
+     "latin": "fa/vazirmatn/vazirmatn-latin-700-normal.woff2"
+    }
+   }
+  },
+  "estedad": {
+   "name": "Estedad",
+   "script": "fa",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/estedad/estedad-arabic-400-normal.woff2",
+     "latin": "fa/estedad/estedad-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/estedad/estedad-arabic-700-normal.woff2",
+     "latin": "fa/estedad/estedad-latin-700-normal.woff2"
+    }
+   }
+  },
+  "lalezar": {
+   "name": "Lalezar",
+   "script": "fa",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/lalezar/lalezar-arabic-400-normal.woff2",
+     "latin": "fa/lalezar/lalezar-latin-400-normal.woff2"
+    }
+   }
+  },
+  "markazi-text": {
+   "name": "Markazi Text",
+   "script": "fa",
+   "category": "serif",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/markazi-text/markazi-text-arabic-400-normal.woff2",
+     "latin": "fa/markazi-text/markazi-text-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/markazi-text/markazi-text-arabic-700-normal.woff2",
+     "latin": "fa/markazi-text/markazi-text-latin-700-normal.woff2"
+    }
+   }
+  },
+  "noto-naskh-arabic": {
+   "name": "Noto Naskh Arabic",
+   "script": "fa",
+   "category": "serif",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/noto-naskh-arabic/noto-naskh-arabic-arabic-400-normal.woff2",
+     "latin": "fa/noto-naskh-arabic/noto-naskh-arabic-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/noto-naskh-arabic/noto-naskh-arabic-arabic-700-normal.woff2",
+     "latin": "fa/noto-naskh-arabic/noto-naskh-arabic-latin-700-normal.woff2"
+    }
+   }
+  },
+  "noto-kufi-arabic": {
+   "name": "Noto Kufi Arabic",
+   "script": "fa",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/noto-kufi-arabic/noto-kufi-arabic-arabic-400-normal.woff2",
+     "latin": "fa/noto-kufi-arabic/noto-kufi-arabic-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/noto-kufi-arabic/noto-kufi-arabic-arabic-700-normal.woff2",
+     "latin": "fa/noto-kufi-arabic/noto-kufi-arabic-latin-700-normal.woff2"
+    }
+   }
+  },
+  "amiri": {
+   "name": "Amiri",
+   "script": "fa",
+   "category": "serif",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/amiri/amiri-arabic-400-normal.woff2",
+     "latin": "fa/amiri/amiri-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/amiri/amiri-arabic-700-normal.woff2",
+     "latin": "fa/amiri/amiri-latin-700-normal.woff2"
+    }
+   }
+  },
+  "cairo": {
+   "name": "Cairo",
+   "script": "fa",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/cairo/cairo-arabic-400-normal.woff2",
+     "latin": "fa/cairo/cairo-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/cairo/cairo-arabic-700-normal.woff2",
+     "latin": "fa/cairo/cairo-latin-700-normal.woff2"
+    }
+   }
+  },
+  "tajawal": {
+   "name": "Tajawal",
+   "script": "fa",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/tajawal/tajawal-arabic-400-normal.woff2",
+     "latin": "fa/tajawal/tajawal-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/tajawal/tajawal-arabic-700-normal.woff2",
+     "latin": "fa/tajawal/tajawal-latin-700-normal.woff2"
+    }
+   }
+  },
+  "almarai": {
+   "name": "Almarai",
+   "script": "fa",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/almarai/almarai-arabic-400-normal.woff2",
+     "latin": "fa/almarai/almarai-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/almarai/almarai-arabic-700-normal.woff2",
+     "latin": "fa/almarai/almarai-latin-700-normal.woff2"
+    }
+   }
+  },
+  "el-messiri": {
+   "name": "El Messiri",
+   "script": "fa",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/el-messiri/el-messiri-arabic-400-normal.woff2",
+     "latin": "fa/el-messiri/el-messiri-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/el-messiri/el-messiri-arabic-700-normal.woff2",
+     "latin": "fa/el-messiri/el-messiri-latin-700-normal.woff2"
+    }
+   }
+  },
+  "reem-kufi": {
+   "name": "Reem Kufi",
+   "script": "fa",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/reem-kufi/reem-kufi-arabic-400-normal.woff2",
+     "latin": "fa/reem-kufi/reem-kufi-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/reem-kufi/reem-kufi-arabic-700-normal.woff2",
+     "latin": "fa/reem-kufi/reem-kufi-latin-700-normal.woff2"
+    }
+   }
+  },
+  "changa": {
+   "name": "Changa",
+   "script": "fa",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/changa/changa-arabic-400-normal.woff2",
+     "latin": "fa/changa/changa-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/changa/changa-arabic-700-normal.woff2",
+     "latin": "fa/changa/changa-latin-700-normal.woff2"
+    }
+   }
+  },
+  "mada": {
+   "name": "Mada",
+   "script": "fa",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/mada/mada-arabic-400-normal.woff2",
+     "latin": "fa/mada/mada-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/mada/mada-arabic-700-normal.woff2",
+     "latin": "fa/mada/mada-latin-700-normal.woff2"
+    }
+   }
+  },
+  "readex-pro": {
+   "name": "Readex Pro",
+   "script": "fa",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/readex-pro/readex-pro-arabic-400-normal.woff2",
+     "latin": "fa/readex-pro/readex-pro-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/readex-pro/readex-pro-arabic-700-normal.woff2",
+     "latin": "fa/readex-pro/readex-pro-latin-700-normal.woff2"
+    }
+   }
+  },
+  "baloo-bhaijaan-2": {
+   "name": "Baloo Bhaijaan 2",
+   "script": "fa",
+   "category": "rounded",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/baloo-bhaijaan-2/baloo-bhaijaan-2-arabic-400-normal.woff2",
+     "latin": "fa/baloo-bhaijaan-2/baloo-bhaijaan-2-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/baloo-bhaijaan-2/baloo-bhaijaan-2-arabic-700-normal.woff2",
+     "latin": "fa/baloo-bhaijaan-2/baloo-bhaijaan-2-latin-700-normal.woff2"
+    }
+   }
+  },
+  "ibm-plex-sans-arabic": {
+   "name": "IBM Plex Sans Arabic",
+   "script": "fa",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/ibm-plex-sans-arabic/ibm-plex-sans-arabic-arabic-400-normal.woff2",
+     "latin": "fa/ibm-plex-sans-arabic/ibm-plex-sans-arabic-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/ibm-plex-sans-arabic/ibm-plex-sans-arabic-arabic-700-normal.woff2",
+     "latin": "fa/ibm-plex-sans-arabic/ibm-plex-sans-arabic-latin-700-normal.woff2"
+    }
+   }
+  },
+  "scheherazade-new": {
+   "name": "Scheherazade New",
+   "script": "fa",
+   "category": "serif",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/scheherazade-new/scheherazade-new-arabic-400-normal.woff2",
+     "latin": "fa/scheherazade-new/scheherazade-new-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/scheherazade-new/scheherazade-new-arabic-700-normal.woff2",
+     "latin": "fa/scheherazade-new/scheherazade-new-latin-700-normal.woff2"
+    }
+   }
+  },
+  "aref-ruqaa": {
+   "name": "Aref Ruqaa",
+   "script": "fa",
+   "category": "calligraphy",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/aref-ruqaa/aref-ruqaa-arabic-400-normal.woff2",
+     "latin": "fa/aref-ruqaa/aref-ruqaa-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/aref-ruqaa/aref-ruqaa-arabic-700-normal.woff2",
+     "latin": "fa/aref-ruqaa/aref-ruqaa-latin-700-normal.woff2"
+    }
+   }
+  },
+  "katibeh": {
+   "name": "Katibeh",
+   "script": "fa",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/katibeh/katibeh-arabic-400-normal.woff2",
+     "latin": "fa/katibeh/katibeh-latin-400-normal.woff2"
+    }
+   }
+  },
+  "mirza": {
+   "name": "Mirza",
+   "script": "fa",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/mirza/mirza-arabic-400-normal.woff2",
+     "latin": "fa/mirza/mirza-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/mirza/mirza-arabic-700-normal.woff2",
+     "latin": "fa/mirza/mirza-latin-700-normal.woff2"
+    }
+   }
+  },
+  "harmattan": {
+   "name": "Harmattan",
+   "script": "fa",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/harmattan/harmattan-arabic-400-normal.woff2",
+     "latin": "fa/harmattan/harmattan-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/harmattan/harmattan-arabic-700-normal.woff2",
+     "latin": "fa/harmattan/harmattan-latin-700-normal.woff2"
+    }
+   }
+  },
+  "gulzar": {
+   "name": "Gulzar",
+   "script": "fa",
+   "category": "nastaliq",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/gulzar/gulzar-arabic-400-normal.woff2",
+     "latin": "fa/gulzar/gulzar-latin-400-normal.woff2"
+    }
+   }
+  },
+  "noto-nastaliq-urdu": {
+   "name": "Noto Nastaliq Urdu",
+   "script": "fa",
+   "category": "nastaliq",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/noto-nastaliq-urdu/noto-nastaliq-urdu-arabic-400-normal.woff2"
+    }
+   }
+  },
+  "rubik": {
+   "name": "Rubik",
+   "script": "fa",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "arabic": "fa/rubik/rubik-arabic-400-normal.woff2",
+     "latin": "fa/rubik/rubik-latin-400-normal.woff2"
+    },
+    "700": {
+     "arabic": "fa/rubik/rubik-arabic-700-normal.woff2",
+     "latin": "fa/rubik/rubik-latin-700-normal.woff2"
+    }
+   }
+  },
+  "shabnam": {
+   "name": "Shabnam",
+   "script": "fa",
+   "category": "body",
+   "source": "github/rastikerdar/shabnam-font",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "all": "fa/shabnam/Shabnam.woff2"
+    },
+    "700": {
+     "all": "fa/shabnam/Shabnam-Bold.woff2"
+    },
+    "300": {
+     "all": "fa/shabnam/Shabnam-Light.woff2"
+    }
+   }
+  },
+  "sahel": {
+   "name": "Sahel",
+   "script": "fa",
+   "category": "body",
+   "source": "github/rastikerdar/sahel-font",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "all": "fa/sahel/Sahel.woff2"
+    },
+    "700": {
+     "all": "fa/sahel/Sahel-Bold.woff2"
+    },
+    "300": {
+     "all": "fa/sahel/Sahel-Light.woff2"
+    }
+   }
+  },
+  "samim": {
+   "name": "Samim",
+   "script": "fa",
+   "category": "body",
+   "source": "github/rastikerdar/samim-font",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "all": "fa/samim/Samim.woff2"
+    },
+    "700": {
+     "all": "fa/samim/Samim-Bold.woff2"
+    }
+   }
+  },
+  "tanha": {
+   "name": "Tanha",
+   "script": "fa",
+   "category": "display",
+   "source": "github/rastikerdar/tanha-font",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "all": "fa/tanha/Tanha.woff2"
+    }
+   }
+  },
+  "gandom": {
+   "name": "Gandom",
+   "script": "fa",
+   "category": "body",
+   "source": "github/rastikerdar/gandom-font",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "all": "fa/gandom/Gandom.woff2"
+    }
+   }
+  },
+  "parastoo": {
+   "name": "Parastoo",
+   "script": "fa",
+   "category": "serif",
+   "source": "github/rastikerdar/parastoo-font",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "all": "fa/parastoo/Parastoo.woff2"
+    },
+    "700": {
+     "all": "fa/parastoo/Parastoo-Bold.woff2"
+    }
+   }
+  },
+  "nahid": {
+   "name": "Nahid",
+   "script": "fa",
+   "category": "display",
+   "source": "github/rastikerdar/nahid-font",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "all": "fa/nahid/Nahid.woff2"
+    }
+   }
+  },
+  "inter": {
+   "name": "Inter",
+   "script": "en",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/inter/inter-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/inter/inter-latin-700-normal.woff2"
+    }
+   }
+  },
+  "poppins": {
+   "name": "Poppins",
+   "script": "en",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/poppins/poppins-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/poppins/poppins-latin-700-normal.woff2"
+    }
+   }
+  },
+  "montserrat": {
+   "name": "Montserrat",
+   "script": "en",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/montserrat/montserrat-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/montserrat/montserrat-latin-700-normal.woff2"
+    }
+   }
+  },
+  "dm-sans": {
+   "name": "DM Sans",
+   "script": "en",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/dm-sans/dm-sans-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/dm-sans/dm-sans-latin-700-normal.woff2"
+    }
+   }
+  },
+  "manrope": {
+   "name": "Manrope",
+   "script": "en",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/manrope/manrope-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/manrope/manrope-latin-700-normal.woff2"
+    }
+   }
+  },
+  "work-sans": {
+   "name": "Work Sans",
+   "script": "en",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/work-sans/work-sans-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/work-sans/work-sans-latin-700-normal.woff2"
+    }
+   }
+  },
+  "nunito": {
+   "name": "Nunito",
+   "script": "en",
+   "category": "rounded",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/nunito/nunito-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/nunito/nunito-latin-700-normal.woff2"
+    }
+   }
+  },
+  "raleway": {
+   "name": "Raleway",
+   "script": "en",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/raleway/raleway-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/raleway/raleway-latin-700-normal.woff2"
+    }
+   }
+  },
+  "lato": {
+   "name": "Lato",
+   "script": "en",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/lato/lato-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/lato/lato-latin-700-normal.woff2"
+    }
+   }
+  },
+  "outfit": {
+   "name": "Outfit",
+   "script": "en",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/outfit/outfit-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/outfit/outfit-latin-700-normal.woff2"
+    }
+   }
+  },
+  "sora": {
+   "name": "Sora",
+   "script": "en",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/sora/sora-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/sora/sora-latin-700-normal.woff2"
+    }
+   }
+  },
+  "urbanist": {
+   "name": "Urbanist",
+   "script": "en",
+   "category": "body",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/urbanist/urbanist-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/urbanist/urbanist-latin-700-normal.woff2"
+    }
+   }
+  },
+  "playfair-display": {
+   "name": "Playfair Display",
+   "script": "en",
+   "category": "serif",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/playfair-display/playfair-display-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/playfair-display/playfair-display-latin-700-normal.woff2"
+    }
+   }
+  },
+  "merriweather": {
+   "name": "Merriweather",
+   "script": "en",
+   "category": "serif",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/merriweather/merriweather-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/merriweather/merriweather-latin-700-normal.woff2"
+    }
+   }
+  },
+  "lora": {
+   "name": "Lora",
+   "script": "en",
+   "category": "serif",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/lora/lora-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/lora/lora-latin-700-normal.woff2"
+    }
+   }
+  },
+  "eb-garamond": {
+   "name": "EB Garamond",
+   "script": "en",
+   "category": "serif",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/eb-garamond/eb-garamond-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/eb-garamond/eb-garamond-latin-700-normal.woff2"
+    }
+   }
+  },
+  "cormorant-garamond": {
+   "name": "Cormorant Garamond",
+   "script": "en",
+   "category": "serif",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/cormorant-garamond/cormorant-garamond-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/cormorant-garamond/cormorant-garamond-latin-700-normal.woff2"
+    }
+   }
+  },
+  "fraunces": {
+   "name": "Fraunces",
+   "script": "en",
+   "category": "serif",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/fraunces/fraunces-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/fraunces/fraunces-latin-700-normal.woff2"
+    }
+   }
+  },
+  "libre-baskerville": {
+   "name": "Libre Baskerville",
+   "script": "en",
+   "category": "serif",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/libre-baskerville/libre-baskerville-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/libre-baskerville/libre-baskerville-latin-700-normal.woff2"
+    }
+   }
+  },
+  "bebas-neue": {
+   "name": "Bebas Neue",
+   "script": "en",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/bebas-neue/bebas-neue-latin-400-normal.woff2"
+    }
+   }
+  },
+  "anton": {
+   "name": "Anton",
+   "script": "en",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/anton/anton-latin-400-normal.woff2"
+    }
+   }
+  },
+  "oswald": {
+   "name": "Oswald",
+   "script": "en",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/oswald/oswald-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/oswald/oswald-latin-700-normal.woff2"
+    }
+   }
+  },
+  "space-grotesk": {
+   "name": "Space Grotesk",
+   "script": "en",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/space-grotesk/space-grotesk-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/space-grotesk/space-grotesk-latin-700-normal.woff2"
+    }
+   }
+  },
+  "syne": {
+   "name": "Syne",
+   "script": "en",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/syne/syne-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/syne/syne-latin-700-normal.woff2"
+    }
+   }
+  },
+  "unbounded": {
+   "name": "Unbounded",
+   "script": "en",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/unbounded/unbounded-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/unbounded/unbounded-latin-700-normal.woff2"
+    }
+   }
+  },
+  "archivo-black": {
+   "name": "Archivo Black",
+   "script": "en",
+   "category": "display",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/archivo-black/archivo-black-latin-400-normal.woff2"
+    }
+   }
+  },
+  "quicksand": {
+   "name": "Quicksand",
+   "script": "en",
+   "category": "rounded",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/quicksand/quicksand-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/quicksand/quicksand-latin-700-normal.woff2"
+    }
+   }
+  },
+  "jetbrains-mono": {
+   "name": "JetBrains Mono",
+   "script": "en",
+   "category": "mono",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/jetbrains-mono/jetbrains-mono-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/jetbrains-mono/jetbrains-mono-latin-700-normal.woff2"
+    }
+   }
+  },
+  "fira-code": {
+   "name": "Fira Code",
+   "script": "en",
+   "category": "mono",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/fira-code/fira-code-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/fira-code/fira-code-latin-700-normal.woff2"
+    }
+   }
+  },
+  "source-code-pro": {
+   "name": "Source Code Pro",
+   "script": "en",
+   "category": "mono",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/source-code-pro/source-code-pro-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/source-code-pro/source-code-pro-latin-700-normal.woff2"
+    }
+   }
+  },
+  "space-mono": {
+   "name": "Space Mono",
+   "script": "en",
+   "category": "mono",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/space-mono/space-mono-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/space-mono/space-mono-latin-700-normal.woff2"
+    }
+   }
+  },
+  "ibm-plex-mono": {
+   "name": "IBM Plex Mono",
+   "script": "en",
+   "category": "mono",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/ibm-plex-mono/ibm-plex-mono-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/ibm-plex-mono/ibm-plex-mono-latin-700-normal.woff2"
+    }
+   }
+  },
+  "caveat": {
+   "name": "Caveat",
+   "script": "en",
+   "category": "handwriting",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/caveat/caveat-latin-400-normal.woff2"
+    },
+    "700": {
+     "latin": "en/caveat/caveat-latin-700-normal.woff2"
+    }
+   }
+  },
+  "great-vibes": {
+   "name": "Great Vibes",
+   "script": "en",
+   "category": "handwriting",
+   "source": "fontsource/google-fonts",
+   "license": "SIL-OFL-1.1",
+   "weights": {
+    "400": {
+     "latin": "en/great-vibes/great-vibes-latin-400-normal.woff2"
+    }
+   }
+  }
+ }
+}

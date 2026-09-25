@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+# Nova Assistant - launcher (starts the local AI assistant with the
+# Nova Code coding module inside). 'novacode' remains as an alias.
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# python3 first; a bare 'python' is acceptable ONLY if it really is
+# Python 3 (on some systems 'python' is still Python 2)
+PY="$(command -v python3 || true)"
+if [ -z "${PY}" ] && command -v python >/dev/null 2>&1 \
+        && python -c 'import sys; sys.exit(0 if sys.version_info[0] >= 3 else 1)' >/dev/null 2>&1; then
+    PY="$(command -v python)"
+fi
+if [ -z "${PY}" ]; then
+    echo "[!] Python 3 is required. Install it first:"
+    echo "    Ubuntu/Debian : sudo apt install python3"
+    echo "    macOS         : xcode-select --install"
+    exit 1
+fi
+# v6.0: the multi-module sections route to the module CLI; everything
+# else (and no args at all) is the classic Nova Code agent.
+case " $* " in
+  *" voice "*|*" stt "*|*" photo "*|*" pixel "*|*" flow "*|*" knowledge "*|*" models "*|*" platforms "*|*" assign "*)
+    exec "${PY}" "${DIR}/nova_assistant.py" "$@" ;;
+  *)
+    exec "${PY}" "${DIR}/nova.py" "$@" ;;
+esac

@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# --- Local AI models dropped by the user (large binaries) ---
+*.gguf
+*.onnx
+*.safetensors
+
+# --- Runtime state / secrets ---
+.nova/
+*.log
+.env
+.env.*
+
+# --- Build artifacts (PyInstaller + packaging scripts) ---
+app/dist/
+app/build/
+app/*.zip
+/download/
+
+# --- OS junk ---
+Thumbs.db
+Desktop.ini
+.DS_Store
